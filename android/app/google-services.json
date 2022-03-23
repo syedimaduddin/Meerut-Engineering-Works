@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "262448802488",
+      "project_id": "hansengineeringworks-61cdd",
+      "storage_bucket": "hansengineeringworks-61cdd.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:262448802488:android:c46a61f5f62ff43868224d",
+          "android_client_info": {
+            "package_name": "com.example.hansengineeringworks"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "262448802488-d0dq89u01jn87o1mepi9ajvppai76l3d.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.hansengineeringworks",
+              "certificate_hash": "a50880768bb618cb444d592a1b74ead682540c6d"
+            }
+          },
+          {
+            "client_id": "262448802488-8d1f7bq45ihteb2psgp7q6hrnq2q99r8.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCc6sOgqDb2_wyibyfiBbeTEE3vrKTPb-o"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "262448802488-8d1f7bq45ihteb2psgp7q6hrnq2q99r8.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

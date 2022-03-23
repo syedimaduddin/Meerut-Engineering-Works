@@ -1,0 +1,84 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Heavy Duty Mounted Disc Harrow",
+        "desc": "Three Point Linkage with Tractor, 22 inch, Steel",
+        "price": 42500,
+        "color": "#33505a",
+        "image": "https://5.imimg.com/data5/JR/PS/IV/SELLER-6059756/heavy-duty-mounted-disc-harrow-500x500.jpg"
+      },
+      {
+        "id": 2,
+        "name": "7 Feet Rotavator Rotary Tiller",
+        "desc": "High Grade Steel, 7feet, 45HP",
+        "price": 95000,
+        "color": "#00ac51",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2020/9/GV/OE/CR/86020358/product-jpeg-500x500.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Heavy Duty Mounted Disc Harrow",
+        "desc": "Three Point Linkage with Tractor, 22 inch, Steel",
+        "price": 42500,
+        "color": "#33505a",
+        "image": "https://5.imimg.com/data5/JR/PS/IV/SELLER-6059756/heavy-duty-mounted-disc-harrow-500x500.jpg"
+      },
+      {
+        "id": 4,
+        "name": "7 Feet Rotavator Rotary Tiller",
+        "desc": "High Grade Steel, 7feet, 45HP",
+        "price": 95000,
+        "color": "#00ac51",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2020/9/GV/OE/CR/86020358/product-jpeg-500x500.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Heavy Duty Mounted Disc Harrow",
+        "desc": "Three Point Linkage with Tractor, 22 inch, Steel",
+        "price": 42500,
+        "color": "#33505a",
+        "image": "https://5.imimg.com/data5/JR/PS/IV/SELLER-6059756/heavy-duty-mounted-disc-harrow-500x500.jpg"
+      },
+      {
+        "id": 6,
+        "name": "7 Feet Rotavator Rotary Tiller",
+        "desc": "High Grade Steel, 7feet, 45HP",
+        "price": 95000,
+        "color": "#00ac51",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2020/9/GV/OE/CR/86020358/product-jpeg-500x500.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Heavy Duty Mounted Disc Harrow",
+        "desc": "Three Point Linkage with Tractor, 22 inch, Steel",
+        "price": 42500,
+        "color": "#33505a",
+        "image": "https://5.imimg.com/data5/JR/PS/IV/SELLER-6059756/heavy-duty-mounted-disc-harrow-500x500.jpg"
+      },
+      {
+        "id": 8,
+        "name": "7 Feet Rotavator Rotary Tiller",
+        "desc": "High Grade Steel, 7feet, 45HP",
+        "price": 95000,
+        "color": "#00ac51",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2020/9/GV/OE/CR/86020358/product-jpeg-500x500.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "Heavy Duty Mounted Disc Harrow",
+        "desc": "Three Point Linkage with Tractor, 22 inch, Steel",
+        "price": 42500,
+        "color": "#33505a",
+        "image": "https://5.imimg.com/data5/JR/PS/IV/SELLER-6059756/heavy-duty-mounted-disc-harrow-500x500.jpg"
+      },
+      {
+        "id": 10,
+        "name": "7 Feet Rotavator Rotary Tiller",
+        "desc": "High Grade Steel, 7feet, 45HP",
+        "price": 95000,
+        "color": "#00ac51",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2020/9/GV/OE/CR/86020358/product-jpeg-500x500.jpeg"
+      }
+    ]
+  }
